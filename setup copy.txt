@@ -1,0 +1,20 @@
+#Fastest creation of projects
+In terminal:
+cd desktop
+mkdir 'project name' + cd into it
+python -m venv venv
+code . 
+source venv/bin/activate 
+which python 
+    - you should see the version of python is running from the venv
+deactivate 
+    - this deactivates the VENV
+
+    Now you can focus on developing your application without having to worry about conflicts or python versions.
+
+Use Git to manage your project versions:
+brew install git
+git init (In VS code project)
+https://github.com/github/gitignore/blob/main/Python.gitignore 
+git add .
+git commit -m "Initial commit"
