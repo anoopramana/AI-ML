@@ -5,8 +5,8 @@ __pycache__/
 data/
 mlenv/
 # C extensions
-*.so
-
+*.so 
+df
 # Distribution / packaging
 .Python
 build/
